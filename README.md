@@ -3,7 +3,8 @@ This is the first exercise from Meteor's Lessons
 
 The first exercise is to create a chat room.
 
-Requirements:
+<b>Requirements</b>:
+</p>
   User should be able to create an account
     in order to create an account he must insert
       username
