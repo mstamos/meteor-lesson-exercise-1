@@ -1,4 +1,4 @@
-# meteor-lesson-exercise-1
+# meteor-lesson-exercise-2
 This is the first exercise from Meteor's Lessons.
 <p></p>
 The goals of this exercise is to dive into Meteor's basics such as:
@@ -13,13 +13,13 @@ The goals of this exercise is to dive into Meteor's basics such as:
 <b>Requirements</b>:
 </p>
 <ul>
-<li>User should be able to create an account</li>
-<li>in order to create an account he must insert</li>
-  <ul>
-    <li>username</li>
-    <li>email</li>
-    <li>password</li>
-  </ul>
+  <li>User should be able to create an account</li>
+  <li>In order to create an account he must insert</li>
+    <ul>
+      <li>username</li>
+      <li>email</li>
+      <li>password</li>
+    </ul>
   <li>User could type a message into an input text box (html tag) and publish it by pressing a submit button</li>
   <li>Anyone could write a message</li>
   <ul>
