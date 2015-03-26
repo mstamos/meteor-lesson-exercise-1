@@ -1,18 +1,36 @@
 # meteor-lesson-exercise-1
-This is the first exercise from Meteor's Lessons
-
-The first exercise is to create a chat room.
+This is the first exercise from Meteor's Lessons.
+<p></p>
+The goals of this exercise is to dive into Meteor's basics such as:
+<ul>
+  <li>Template HTML and Helpers</li>
+  <li>Intro to MongoDB</li>
+  <li>Publication/Subscription</li>
+  <li>Add/Remove a package</li>
+</ul>
+ which covered in the First and the Second Meteor Lesson. 
 
 <b>Requirements</b>:
 </p>
-  User should be able to create an account
-    in order to create an account he must insert
-      username
-      email
-      password
-      
-  User could type a message into an input text box (html tag) and publish it by pressing a submit button
+<ul>
+<li>User should be able to create an account</li>
+<li>in order to create an account he must insert</li>
+  <ul>
+    <li>username</li>
+    <li>email</li>
+    <li>password</li>
+  </ul>
+  <li>User could type a message into an input text box (html tag) and publish it by pressing a submit button</li>
+  <li>Anyone could write a message</li>
+  <ul>
+    <li>If user is logged in, then his username should be appeared next to his name, otherwise “Anonymous”.</li>
+  </ul>
+</ul>
   
-  Anyone could write a message
-    If user is logged in, then his username should be appeared next to his name, otherwise “Anonymous”.
+      
+      
+  
+  
+  
+    
 
