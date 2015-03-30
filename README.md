@@ -1,5 +1,5 @@
 # meteor-lesson-exercise-2
-This is the first exercise from Meteor's Lessons.
+This is the second exercise from Meteor's Lessons.
 <p></p>
 The goals of this exercise is to dive into Meteor's basics such as:
 <ul>
@@ -8,7 +8,7 @@ The goals of this exercise is to dive into Meteor's basics such as:
   <li>Publication/Subscription</li>
   <li>Add/Remove a package</li>
 </ul>
- which covered in the First and the Second Meteor Lesson. 
+ which have been covered in the First and the Second Meteor Lesson. 
 
 <b>Requirements</b>:
 </p>
@@ -25,6 +25,7 @@ The goals of this exercise is to dive into Meteor's basics such as:
   <ul>
     <li>If user is logged in, then his username should be appeared next to his name, otherwise “Anonymous”.</li>
   </ul>
+  <li>Autocomplete package have to be removed and publish/subscribe to be used instead</li>
 </ul>
   
       
